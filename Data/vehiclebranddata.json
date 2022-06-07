@@ -27,19 +27,19 @@
     "Id": 5,
     "VehicleTypeId": 2,
     "Name": "Toyota",
-    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/toyota.png?token=GHSAT0AAAAAABUZ3ZPUO5WCMWQMQ76E7BAMYU7AM2A"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/toyota.png"
   },
   {
     "Id": 6,
     "VehicleTypeId": 2,
     "Name": "Honda",
-    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/honda.png?token=GHSAT0AAAAAABUZ3ZPUKK772SX4CMWDEA4IYU7ALZQ"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/honda.png"
   },
   {
     "Id": 7,
     "VehicleTypeId": 2,
     "Name": "Mazda",
-    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png?token=GHSAT0AAAAAABUZ3ZPVREIB6H64253D5XO6YU7AMIA"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png"
   },
   {
     "Id": 8,
@@ -51,13 +51,13 @@
     "Id": 9,
     "VehicleTypeId": 2,
     "Name": "Mitsubishi",
-    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mitsubishi.png?token=GHSAT0AAAAAABUZ3ZPULAJQSNJHLCKWYHVWYU7AMRA"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mitsubishi.png"
   },
   {
     "Id": 10,
     "VehicleTypeId": 2,
     "Name": "Proton",
-    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/Proton.png?token=GHSAT0AAAAAABUZ3ZPVKTTJDOBGR47DEPUEYU7ALQA"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/Proton.png"
   },
   {
     "Id": 11,
@@ -75,6 +75,6 @@
     "Id": 13,
     "VehicleTypeId": 2,
     "Name": "Ford",
-    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/Ford.png?token=GHSAT0AAAAAABUZ3ZPUKEA5MQ5ICW62ZXW6YU7AK3A"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/Ford.png"
   },
 ]
