@@ -3,25 +3,25 @@
     "Id": 1,
     "VehicleTypeId": 1,
     "Name": "Yamaha",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png"
   },
   {
     "Id": 2,
     "VehicleTypeId": 1,
     "Name": "Honda",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png"
   },
   {
     "Id": 3,
     "VehicleTypeId": 1,
     "Name": "Suzuki",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png"
   },
   {
     "Id": 4,
     "VehicleTypeId": 1,
     "Name": "Benelli",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png"
   },
   {
     "Id": 5,
@@ -45,7 +45,7 @@
     "Id": 8,
     "VehicleTypeId": 2,
     "Name": "Suzuki",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png"
   },
   {
     "Id": 9,
@@ -63,13 +63,13 @@
     "Id": 11,
     "VehicleTypeId": 2,
     "Name": "Perodua",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png"
   },
   {
     "Id": 12,
     "VehicleTypeId": 2,
     "Name": "Nissan",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png"
   },
   {
     "Id": 13,

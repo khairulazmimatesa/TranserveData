@@ -7,7 +7,179 @@
     "BrandName": "Mazda",
     "ModelName": "RX8",
     "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png"
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 59620,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-04-23T18:25:43.511Z",
+      "NextServiceDate": "2012-09-23T18:25:43.511Z"
+    }
+  },
+  {
+    "Id": 1,
+    "UserId": 1,
+    "TypeId": 1,
+    "BrandId": 1,
+    "BrandName": "Mitsubishi",
+    "ModelName": "Evo X",
+    "RegisterNo": "MKA9852",
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mitsubishi.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 79620,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-05-23T18:25:43.511Z",
+      "NextServiceDate": "2012-012-23T18:25:43.511Z"
+    }
+
+  },
+  {
+    "Id": 1,
+    "UserId": 1,
+    "TypeId": 1,
+    "BrandId": 1,
+    "BrandName": "Proton",
+    "ModelName": "Exora",
+    "RegisterNo": "WQD7821",
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/Proton.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 50000,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-04-23T18:25:43.511Z",
+      "NextServiceDate": "2012-09-23T18:25:43.511Z"
+    }
+
+  },
+  {
+    "Id": 1,
+    "UserId": 1,
+    "TypeId": 1,
+    "BrandId": 1,
+    "BrandName": "Proton",
+    "ModelName": "Persona",
+    "RegisterNo": "DHP9561",
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/Proton.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 50000,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-04-23T18:25:43.511Z",
+      "NextServiceDate": "2012-09-23T18:25:43.511Z"
+    }
+  },
+  {
+    "Id": 1,
+    "UserId": 1,
+    "TypeId": 1,
+    "BrandId": 1,
+    "BrandName": "Toyota",
+    "ModelName": "Yaris",
+    "RegisterNo": "GHP6430",
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/toyota.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 50000,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-04-23T18:25:43.511Z",
+      "NextServiceDate": "2012-09-23T18:25:43.511Z"
+    }
+  },
+  {
+    "Id": 1,
+    "UserId": 1,
+    "TypeId": 1,
+    "BrandId": 1,
+    "BrandName": "Toyota",
+    "ModelName": "Vios",
+    "RegisterNo": "QSG9823",
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/toyota.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 50000,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-04-23T18:25:43.511Z",
+      "NextServiceDate": "2012-09-23T18:25:43.511Z"
+    }
+  },
+  {
+    "Id": 1,
+    "UserId": 1,
+    "TypeId": 1,
+    "BrandId": 1,
+    "BrandName": "Ford",
+    "ModelName": "Focus",
+    "RegisterNo": "QKL2693",
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/Ford.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 50000,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-04-23T18:25:43.511Z",
+      "NextServiceDate": "2012-09-23T18:25:43.511Z"
+    }
+  },
+  {
+    "Id": 1,
+    "UserId": 1,
+    "TypeId": 1,
+    "BrandId": 1,
+    "BrandName": "Ford",
+    "ModelName": "Mustang",
+    "RegisterNo": "RT78",
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/Ford.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 50000,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-04-23T18:25:43.511Z",
+      "NextServiceDate": "2012-09-23T18:25:43.511Z"
+    }
+  },
+  {
+    "Id": 1,
+    "UserId": 1,
+    "TypeId": 1,
+    "BrandId": 1,
+    "BrandName": "Honda",
+    "ModelName": "Civic",
+    "RegisterNo": "LPO362",
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/honda.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 50000,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-04-23T18:25:43.511Z",
+      "NextServiceDate": "2012-09-23T18:25:43.511Z"
+    }
+  },
+  {
+    "Id": 1,
+    "UserId": 1,
+    "TypeId": 1,
+    "BrandId": 1,
+    "BrandName": "Honda",
+    "ModelName": "City",
+    "RegisterNo": "QPD5601",
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/honda.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 50000,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-04-23T18:25:43.511Z",
+      "NextServiceDate": "2012-09-23T18:25:43.511Z"
+    }
   },
   {
     "Id": 1,
@@ -15,98 +187,16 @@
     "TypeId": 1,
     "BrandId": 1,
     "BrandName": "Mazda",
-    "ModelName": "RX8",
-    "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
-  },
-  {
-    "Id": 1,
-    "UserId": 1,
-    "TypeId": 1,
-    "BrandId": 1,
-    "BrandName": "Mazda",
-    "ModelName": "RX8",
-    "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
-  },
-  {
-    "Id": 1,
-    "UserId": 1,
-    "TypeId": 1,
-    "BrandId": 1,
-    "BrandName": "Mazda",
-    "ModelName": "RX8",
-    "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
-  },
-  {
-    "Id": 1,
-    "UserId": 1,
-    "TypeId": 1,
-    "BrandId": 1,
-    "BrandName": "Mazda",
-    "ModelName": "RX8",
-    "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
-  },
-  {
-    "Id": 1,
-    "UserId": 1,
-    "TypeId": 1,
-    "BrandId": 1,
-    "BrandName": "Mazda",
-    "ModelName": "RX8",
-    "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
-  },
-  {
-    "Id": 1,
-    "UserId": 1,
-    "TypeId": 1,
-    "BrandId": 1,
-    "BrandName": "Mazda",
-    "ModelName": "RX8",
-    "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
-  },
-  {
-    "Id": 1,
-    "UserId": 1,
-    "TypeId": 1,
-    "BrandId": 1,
-    "BrandName": "Mazda",
-    "ModelName": "RX8",
-    "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
-  },
-  {
-    "Id": 1,
-    "UserId": 1,
-    "TypeId": 1,
-    "BrandId": 1,
-    "BrandName": "Mazda",
-    "ModelName": "RX8",
-    "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
-  },
-  {
-    "Id": 1,
-    "UserId": 1,
-    "TypeId": 1,
-    "BrandId": 1,
-    "BrandName": "Mazda",
-    "ModelName": "RX8",
-    "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
-  },
-  {
-    "Id": 1,
-    "UserId": 1,
-    "TypeId": 1,
-    "BrandId": 1,
-    "BrandName": "Mazda",
-    "ModelName": "RX8",
-    "RegisterNo": "DDX9876",
-    "Image": "https://raw.githubusercontent.com/jamesmontemagno/app-monkeys/master/baboon.jpg"
+    "ModelName": "MX-5",
+    "RegisterNo": "AQSD369",
+    "Image": "https://raw.githubusercontent.com/khairulazmimatesa/TranserveData/main/Images/mazda.png",
+    "ServiceHistory": {
+      "Id": 1,
+      "VehicleId": 1,
+      "LastMileage": 50000,
+      "NextMileage": 100000,
+      "LastServiceDate": "2012-04-23T18:25:43.511Z",
+      "NextServiceDate": "2012-09-23T18:25:43.511Z"
+    }
   }
 ]
